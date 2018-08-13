@@ -35,6 +35,6 @@ app/
 
 doc
 .vscode
-
+src/config/*.js
 config.development.js
 adapter.development.js

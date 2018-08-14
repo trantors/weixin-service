@@ -1,4 +1,4 @@
-const Base = require('../base.js')
+const Base = require('../../base.js')
 const Config = think.config('qywx').provider
 const APIBaseURI = 'https://qyapi.weixin.qq.com/cgi-bin/service'
 const xml2js = require('xml2js')
